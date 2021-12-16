@@ -1,5 +1,6 @@
 ---
 title: 6. Client's application
+description: Videoroom Tutorial
 ---
 ## Let's implement the client's endpoint!
 We will put the whole logic into `assets/src/room.ts`. Methods responsible for handling UI are already in `assets/src/room_ui.ts`, let's import them: 
@@ -363,6 +364,8 @@ visit the following page in your browser:
 and then join a room with a given name!
 Later on, you can visit your video room's page once again, from another browser's tab or from another browser's window (or even another browser - however the recommended browsers to use are Chrome and Firefox) and join the same room as before - you should start seeing two participants in the same room!
 <br><br>
-[NEXT STEP - Further steps](7_FurtherSteps.md)<br>
-[List of contents](index.md)
+[NEXT - Further steps](7_FurtherSteps.md)<br>
+[PREV - Server's room process](5_ImplementingServerRoom.md)<br>
+[List of contents](index.md)<br>
+[List of tutorials](../index.md)
 

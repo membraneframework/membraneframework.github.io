@@ -1,5 +1,6 @@
 ---
 title: 3. System architecture
+description: Videoroom Tutorial
 ---
 # Planning is always a good idea
 Hang on for a moment! I know that after slipping through the tons of the documentation you are really eager to start coding, but let's think for a moment before taking any actions. How do we want our application to look like?
@@ -63,5 +64,7 @@ At the same time, `MembraneWebRTC` object will be able to change the `Room`'s st
 
 Be aware that `MembraneWebRTC` object will also take care of the incoming media stream.
 <br><br>
-[NEXT STEP - Server's communication channels](4_CreatingServersCommunicationChannels.md)<br>
-[List of contents](index.md)
+[NEXT - Server's communication channels](4_CreatingServersCommunicationChannels.md)<br>
+[PREV - Environment preparation](2_EnvironmentPreparation)<br>
+[List of contents](index.md)<br>
+[List of tutorials](../index.md)

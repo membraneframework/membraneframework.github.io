@@ -18,14 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Membrane Framework Videoroom Tutorial
+title: Membrane Framework Tutorials
 email: lukasz.kita@swmansion.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Create your very own video conference room with a little help from the Membrane Framework!
+  Get familiar with multimedia processing with a bunch of tutorials based on real-life cases! 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tutorials.membraneframework.org" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  membraneframework
-
 # Build settings
 theme: jekyll-theme-cayman
 plugins:

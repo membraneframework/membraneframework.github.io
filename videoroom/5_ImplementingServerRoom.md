@@ -1,5 +1,6 @@
 ---
 title: 5. Server's room
+description: Videoroom Tutorial
 ---
 ## Let's create The Room! ;)
 We are still missing probably the most important part - the heart of our application - the implementation of the room.
@@ -176,8 +177,10 @@ The last thing we do is to update the state - we remove the mapping (peer_id->pe
 
 After all of this hard work our server is finally ready. But we still need a client application.
 <br><br>
-[NEXT STEP - Client's application](6_ImplementingClientsApplication.md)<br>
-[List of contents](index.md)
+[NEXT - Client's application](6_ImplementingClientsApplication.md)<br>
+[PREV - Server's communication channels](4_CreatingServersCommunicationChannels.md)<br>
+[List of contents](index.md)<br>
+[List of tutorials](../index.md)
 
  
 

@@ -1,5 +1,6 @@
 ---
 title: 7. Further steps
+description: Videoroom Tutorial
 ---
 # What to do next?
 We can share with you inspiration for further improvements!
@@ -34,4 +35,6 @@ Our suggested implementation of these two features is available at the [template
 Here our journey ends! I modestly hope that you have enjoyed the tutorial and have fetched out of it that much interesting information and skills as possible. Or maybe you have even found yourself passionate about media streaming? Goodbye and have a great time playing with the tool you have just created!
 
 <br>
-[List of contents](index.md)
+[PREV - Client's application](6_ImplementingClientsApplication.md)<br>
+[List of contents](index.md)<br>
+[List of tutorials](../index.md)
