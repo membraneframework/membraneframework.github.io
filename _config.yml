@@ -21,7 +21,11 @@
 title: Membrane Framework Tutorials
 email: lukasz.kita@swmansion.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Get familiar with multimedia processing with a bunch of tutorials based on real-life cases! 
+  Get familiar with multimedia processing with a bunch of tutorials based on real-life cases!
+  <div>
+  <br> <b>Page:</b> <a style="color: white" href=https://www.membraneframework.org/>Membrane Framework</a>
+  <br> <b>Forum:</b> <a style="color: white" href=https://elixirforum.com/c/elixir-framework-forums/membrane-forum/104/>Membrane Forum</a>
+  </div>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tutorials.membraneframework.org" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  membraneframework
@@ -29,6 +33,11 @@ github_username:  membraneframework
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
+links: >-
+  <div>
+  <br> Page: <a style="color: white" href=https://www.membraneframework.org/>Membrane Framework</a>
+  <br> Forum: <a style="color: white" href=https://elixirforum.com/c/elixir-framework-forums/membrane-forum/104/>Membrane Forum</a>
+  </div>
 
 # Exclude from processing.
 # The following items will not be processed, by default.
